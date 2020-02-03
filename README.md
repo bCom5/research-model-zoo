@@ -6,8 +6,10 @@ Accuracy training on Cifar 10
 * Params: 3,217,226
 
 # SqueezeNet
-* Accuracy: 87.50%
+* Accuracy: 90.71%
+* Accuracy TTQ Train: 87.50%
 * Quantized Accuracy: 84.00%
+* One and Negative One Accuracy: 84.33%
 * MACs: 23,902,388
 * Params: 730,314
 
