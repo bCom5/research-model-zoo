@@ -1,6 +1,6 @@
-Accuracy training on Cifar 10
+# Accuracy training on Cifar 10
 
-![](https://i.imgur.com/fH30cyX.png)
+![](https://i.imgur.com/fH30cyX.png | width=100)
 
 # MobileNet x1.00
 * Accuracy: 91.42%
