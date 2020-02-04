@@ -1,5 +1,7 @@
 Accuracy training on Cifar 10
 
+![](https://i.imgur.com/fH30cyX.png)
+
 # MobileNet x1.00
 * Accuracy: 91.42%
 * MACs: 47,187,968
