@@ -15,23 +15,22 @@
 * MACs: 23,902,388
 * Params: 730,314
 
+# Mobilenet V3 Small x1.00
+* Accuracy: 91.16%
+* MACs: 18,891,842
+* Params: 1,518,594
+
 # MobileNet x0.25
 * Accuracy: 85.87%
 * MACs: 3,539,456
 * Params: 215,642
 
+# Mobilenet V3 Small x0.25
+* Accuracy: 86.33%
+* MACs: 2,540,820
+* Params: 124,050
+
 # Fd-MobileNet x0.25
 * Accuracy: 79.09%
 * MACs: 1,029,888
 * Params: 128,730
-
-# MobileNetV3 Small x0.75
-* Accuracy: 72.33%
-* MACs: 2,002,076
-* Params: 1,108,058
-
-# MobileNetV3 Small x0.35
-* Accuracy: 70.19%
-* MACs: 805,052
-* Params: 428,746
-
