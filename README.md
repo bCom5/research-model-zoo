@@ -1,6 +1,6 @@
 # Accuracy training on Cifar 10
 
-![](https://i.imgur.com/9dFUhJl.png)
+![](https://i.imgur.com/aaNzTmH.png)
 
 # MobileNet x1.00
 * Accuracy: 91.42%
@@ -34,3 +34,18 @@
 * Accuracy: 79.09%
 * MACs: 1,029,888
 * Params: 128,730
+
+# Fd-MobileNet x1.00
+* Accuracy: 87.73%
+* MACs: 11,983,872
+* Params: 1,886,538
+
+# Fd-MobileNet V3 x0.25
+* Accuracy: 77.990%
+* MACs: 697,662
+* Params: 160,162
+
+# Fd-MobileNet V3 x1.00
+* Accuracy: 84.190%
+* MACs: 6,597,218
+* Params: 2,044,298
